@@ -12,7 +12,7 @@ pip3 install -r requirements.txt
 
 Use this Tool for annoatating Images - [labelImg](https://tzutalin.github.io/labelImg/)
 
-### Step 3: Train Yolov4-Tiny Model on th4e annotated Images
+### Step 3: Train Yolov4-Tiny Model on the annotated Images
 
 ### Step 4: Use the Yolov4-Tiny config file and weights file with the python file
 
