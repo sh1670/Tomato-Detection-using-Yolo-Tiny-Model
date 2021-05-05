@@ -3,4 +3,4 @@
 ## Result of prediction on Test Images
 
 ### 1
-![](Resulted Test Images/1.jpeg)
+![](Resulted%20Test%20Images/1.jpeg)
